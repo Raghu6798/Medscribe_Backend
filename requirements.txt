@@ -1,0 +1,7 @@
+fastapi
+langchain-cerebras
+langchain-mistralai
+python-multipart
+uvicorn
+loguru
+groq 
