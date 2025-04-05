@@ -6,3 +6,4 @@ python-multipart
 uvicorn
 loguru
 groq 
+dotenv
