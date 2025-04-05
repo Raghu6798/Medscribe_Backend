@@ -1,6 +1,7 @@
 fastapi
 langchain-cerebras
 langchain-mistralai
+langchain
 python-multipart
 uvicorn
 loguru
